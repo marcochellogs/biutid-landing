@@ -1,2 +1,2 @@
 # biutid-landing
-landing page of biuti
+landing page of biutid
