@@ -1,0 +1,77 @@
+.panel {
+  padding: 2% 5%;
+}
+
+.panel__content {
+  width: 50%;
+}
+
+.panel--first {
+  color: white;
+  background: grey;
+}
+
+.panel--identity h2 {
+  color: rgba(90, 129, 184, 0.9);
+  text-align: center;
+}
+
+.panel--valori {
+  color: white;
+  background: rgba(90, 129, 184, 0.9);
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.panel--perché {
+  text-align: center;
+}
+
+.panel--perché h2, h4{
+  color: rgba(90, 129, 184, 0.9);
+}
+
+.perché__campi {
+  display: flex;
+  justify-content: space-between;
+}
+
+.campo {
+  font-size: 16px;
+  width: auto;
+  margin: 0 5%;
+  text-align: center;
+}
+
+.campo p {
+  text-align: justify;
+}
+
+.panel--questionario {
+  background: rgba(90, 129, 184, 0.9);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.panel--citazione {
+  text-align: center;
+}
+
+.panel--footer {
+  background: grey;
+  color: white;
+}
+
+.panel__content--footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.panel__footer {
+  display: flex;
+  justify-content: space-between;
+}
